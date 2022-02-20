@@ -1,0 +1,11 @@
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\bin\Debug\Terminal R.exe.config
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\bin\Debug\Terminal R.exe
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\bin\Debug\Terminal R.pdb
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.csproj.AssemblyReference.cache
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.csproj.SuggestedBindingRedirects.cache
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal_R.Form1.resources
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal_R.Properties.Resources.resources
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.csproj.GenerateResource.cache
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.csproj.CoreCompileInputs.cache
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.exe
+C:\Users\RstErkAT\source\repos\App2\Terminal R\Terminal R\obj\Debug\Terminal R.pdb
